@@ -1,0 +1,207 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: white;
+    margin-right:100px ;
+    text-decoration: none;
+}
+
+
+
+
+header{
+    color: white;
+    text-align: center;
+    background-color: rgb(14, 38, 104);
+    position: fixed;
+    padding: 16px 0;
+    font-weight: bold;
+ 
+}
+
+header nav a{
+    margin-left: 35.9px;
+}
+
+
+header nav a:hover {
+    color: rgb(251, 191, 36);
+}
+
+
+
+.homeee{
+    text-align: center;
+    padding: 4rem 1rem;
+    background-color:  rgb(30, 58, 138);
+    color: white;
+
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 4px solid rgb(251, 191, 36);
+    margin-bottom: 16px;
+}
+
+
+
+#home h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+#home p {
+    font-size: 1.2rem;
+}
+
+
+
+
+footer{
+    background-color: rgb(30, 58, 138);
+    text-align: center;
+    padding: 1.5rem 1rem;
+}
+footer .social a{
+    margin:0 0.5rem;
+    text-decoration: none; 
+}
+footer .social a:hover {
+    color: rgb(251, 191, 36);
+}
+
+
+
+
+
+#contact {
+    padding: 4rem 1rem;
+    text-align: center;
+}
+
+#contact h2 {
+    margin-bottom: 2rem;
+    color: rgb(30, 58, 138);
+}
+
+#contact form {
+    width: 600px;
+    margin: 0 auto;
+}
+
+#contact label {
+    display: block;
+    text-align: left;
+    margin-bottom: 8px;
+    color: rgb(31, 41, 55);
+}
+
+#contact input, #contact textarea {
+    width: 100%;
+    padding: 0.8rem;
+    margin-bottom: 1rem;
+    border: 1px solid rgb(229, 231, 235);
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+#butto{
+    padding: 1px 2px;
+    border: none;
+    border-radius: 5px;
+    background-color:rgb(30, 58, 138);
+    color: white;
+
+}
+
+#butto:hover{
+    background-color: rgb(14, 38, 104);
+}
+
+
+
+
+
+#aboutt {
+    padding: 4rem 1rem;
+    background-color: rgb(243, 244, 246);
+}
+
+#aboutt h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: rgb(30, 58, 138);
+}
+
+.abouttt p {
+    width: 800px;
+    margin: 0 auto 2rem auto;
+    text-align: center;
+}
+
+.abouttt ul {
+    width: 600px;
+    margin: 0 auto;
+    padding-left: 1.5rem;
+}
+
+
+
+
+
+
+#project {
+    padding: 4rem 1rem;
+}
+
+#project h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: rgb(30, 58, 138);
+}
+
+.projectt {
+    background-color: rgb(243, 244, 246); 
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-radius: 0.5rem;
+}
+
+#project h3{
+    margin-bottom: 1.5rem;
+    color: rgb(30, 58, 138);
+}
+
+.projectt p {
+    margin-bottom: 0;
+}
+
+
+
+
+
+
+#skill {
+    padding: 4rem 1rem;
+    background-color: rgb(243, 244, 246);
+}
+
+#skill h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: rgb(30, 58, 138);
+}
+
+#skill ul {
+    width: 600px;
+    margin: 0 auto;
+    padding-left: 1.5rem;
+}
+
+
